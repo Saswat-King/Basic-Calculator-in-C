@@ -1,7 +1,8 @@
 #include <stdio.h>
 int main()
-{ int num1, num2;
-  char Add ,Sub ;
+{
+  int num1, num2;
+  char Add, Sub;
 
   printf("Welcome to C Calculator\n");
   printf("Enter The Number one: ");
